@@ -6,7 +6,10 @@
 
 
 </div>
+
 This course will give you a clear understanding of how to start using Prisma in your full-stack web applications. Prisma is an open-source ORM. It consists of the following parts:
+
+<br />
 
 Prisma Client: Auto-generated and type-safe query builder
 Prisma Migrate: Migration system
