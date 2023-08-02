@@ -1,7 +1,7 @@
 {
   "name": "backend-with-prisma",
   "version": "1.0.0",
-  "description": "<div align=\"center\">",
+  "description": "ApiREST with TS",
   "main": "index.js",
   "prisma": {
     "seed": "node --require esbuild-register prisma/seed.ts"
@@ -22,7 +22,8 @@
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "express-validator": "^7.0.1"
+    "express-validator": "^7.0.1",
+    "ts-node": "^10.9.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.13",
