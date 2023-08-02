@@ -1,6 +1,6 @@
 <div align="center">
 
-# Backend with Prisma:
+# TypeScript: RESTful API:
 
 ![Prisma_TS](https://github.com/wal-wizard/Backend-with-Prisma/assets/82295321/116019a4-0fc0-4902-b5d9-264b0ecd5e20)
 
@@ -20,15 +20,6 @@ In the end, you will be able to understand how Prisma works, and confidently sta
 
 The Prisma version used in this course is ^2.26, and the latest version is 2.28. As of 2.28, there are no major breaking changes.
 
-
-## What you'll learn:
-  - Initialize Prisma in a TypeScript project
-  - Use Prisma Client to create and find records in your data base
-  - Use express to create data dynamically
-  - Use Prisma Schema language
-  - Use Prisma Studio
-  - Running Prisma migrate
-  - Create relations between tables using Prisma Schema
 
 
 
